@@ -15,9 +15,13 @@ Email Me 👉 ✉️ **nishant.raj0403@gmail.com** For Collaboration/Project or 
 
 Stay updated with my projects by following me on Instagram, Facebook and Twitter.
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Nishant%20Raj-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nishantraj8446) 
+[![Instagram](https://img.shields.io/badge/Instagram-nishant.__.raj-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nishant._.raj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Raj-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-raj2341018028) 
+[![GitHub](https://img.shields.io/badge/GitHub-nishantraj04-black?logo=github&logoColor=white)](https://github.com/nishantraj04)
 
 [![](https://visitcount.itsvg.in/api?id=nishantraj04&icon=1&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Snake Game Repo View -->
 
