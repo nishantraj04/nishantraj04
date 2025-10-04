@@ -3,17 +3,18 @@
 
 Email Me 👉 ✉️ **nishant.raj0403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** TeamUp
-- 🌱 **I’m currently learning:** Java
-- 👯 **I’m looking to collaborate on:** TeamUp
-- 🤔 **I’m looking for help with:** TeamUp
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** nishant.raj0403@gmail.com
-- ⚡ **Fun fact:** I blend Codes with Designs
+
+🔭 I’m currently working on: TeamUp – a collaborative platform project  
+🌱 I’m currently learning: Java,Python, Data Structures & Algorithms and other Computer Science Studies
+👯 I’m looking to collaborate on: Open-source projects and creative tech initiatives  
+🤔 I’m looking for help with: Advanced problem-solving and optimizing algorithms  
+💬 Ask me about: Design tips, Tech projects  
+📫 How to reach me: nishant.raj0403@gmail.com  
+⚡ Fun fact: I blend Code with Creative Designs ✨
 
 ## 🔗 I am a Developer. 😊😊
 
-Stay updated with my projects by following me on Instagram, Facebook and Twitter.
+Stay updated with my projects by following me on the following platforms.
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Nishant%20Raj-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nishantraj8446) 
 [![Instagram](https://img.shields.io/badge/Instagram-nishant.__.raj-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nishant._.raj) 
