@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Nishant Raj
-**A passionate Web Developer || Graphic Designer || Blending Code with Creative Designs**
+**A Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
 
 Email Me 👉 ✉️ **nishant.raj0403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -39,14 +39,9 @@ Stay updated with my projects by following me on Instagram, Facebook and Twitter
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nishantraj04&theme=dark&hide_border=false)<br/>
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishantraj04&theme=dark&hide_border=false)
 
 
 ## 🌐 Socials:
