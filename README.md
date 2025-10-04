@@ -6,6 +6,7 @@ Email Me 👉 ✉️ **nishant.raj0403@gmail.com** For Collaboration/Project or 
 
 🔭 I’m currently working on: TeamUp – a collaborative platform project  
 🌱 I’m currently learning: Java,Python, Data Structures & Algorithms and other Computer Science Studies
+
 👯 I’m looking to collaborate on: Open-source projects and creative tech initiatives  
 🤔 I’m looking for help with: Advanced problem-solving and optimizing algorithms  
 💬 Ask me about: Design tips, Tech projects  
