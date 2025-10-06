@@ -1,3 +1,6 @@
+<img src="images/svg/header_en.svg"></img>
+
+
 # 💫 Hi 👋, I'm Nishant Raj
 **A Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
 
