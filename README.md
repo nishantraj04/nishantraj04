@@ -2,11 +2,7 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/banner.png" width="100%" alt="Nishant Raj Banner">
+  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/ChatGPT Image Oct 6, 2025, 10_11_45 AM.png" width="100%" alt="Nishant Raj Banner">
 </div>
 
 
