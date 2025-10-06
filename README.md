@@ -1,33 +1,25 @@
 # 💫 Hi 👋, I'm Nishant Raj
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-**A Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
 
-Email Me 👉 ✉️ **nishant.raj0403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-
-🔭 I’m currently working on: TeamUp – a collaborative platform project  
-🌱 I’m currently learning: Java,Python, Data Structures & Algorithms and other Computer Science Studies
-
-👯 I’m looking to collaborate on: Open-source projects and creative tech initiatives  
-🤔 I’m looking for help with: Advanced problem-solving and optimizing algorithms  
-💬 Ask me about: Design tips, Tech projects  
-📫 How to reach me: nishant.raj0403@gmail.com  
-⚡ Fun fact: I blend Code with Creative Designs ✨
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/banner.png" width="100%" alt="Nishant Raj Banner">
+</div>
+
+
+
+**A Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer with experience in building web platforms. \
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
-
+I'm a passionate developer who loves blending creativity with clean, functional code. I focus on building intuitive and efficient solutions that balance design, performance, and user experience. Currently exploring Java and real-world project development, I enjoy learning, collaborating, and contributing to ideas that make technology more meaningful. Open-source and teamwork inspire me to grow while helping others along the way.
 
 
 <h3>EXPERIENCE</h3>
 
-I have experience working in both private companies and as a freelancer.
+While still building my professional experience, I’ve worked on several personal and academic projects that have helped me explore technologies like Java, Python, and JavaScript. I’m particularly interested in full stack development and enjoy designing clean interfaces with attention to performance and usability.
 
 I've spent most of my time as a developer working with:
 
@@ -40,6 +32,8 @@ I also have experience with:
 - <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
 - <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <h3>MY FRIEND</h3>
 has a message for you...
 
@@ -49,26 +43,6 @@ has a message for you...
   <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 </div>
 <br>
-
-
-
-## 🔗 I am a Developer. 😊😊
-
-Stay updated with my projects by following me on the following platforms.
-
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Nishant%20Raj-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nishantraj8446) 
-[![Instagram](https://img.shields.io/badge/Instagram-nishant.__.raj-pink?logo=instagram&logoColor=white)](https://www.instagram.com/nishant._.raj) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Raj-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-raj2341018028) 
-[![GitHub](https://img.shields.io/badge/GitHub-nishantraj04-black?logo=github&logoColor=white)](https://github.com/nishantraj04)
-
-[![](https://visitcount.itsvg.in/api?id=nishantraj04&icon=1&color=4)](https://visitcount.itsvg.in)
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 ## 🏆 GitHub Trophies
@@ -85,8 +59,14 @@ Stay updated with my projects by following me on the following platforms.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishantraj04&theme=dark&hide_border=false)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant._.raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raj2341018028) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishant.raj0403@gmail.com) 
+## ⚡ Curious about what I’m building next? Then hit the links below 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/nishant._.raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raj2341018028)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@nishantraj8446)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/nishantraj04)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishant.raj0403@gmail.com)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
