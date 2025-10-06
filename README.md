@@ -1,8 +1,6 @@
-# 💫 Hi 👋, I'm Nishant Raj
-
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/ChatGPT Image Oct 6, 2025, 10_11_45 AM.png" width="100%" alt="Nishant Raj Banner">
+  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/Linkedin Banner.png" width="100%" alt="Nishant Raj Banner">
 </div>
 
 
