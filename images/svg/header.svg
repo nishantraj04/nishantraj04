@@ -206,6 +206,15 @@ g.typingUnderline rect {
       Software Developer, Graphic Designer, Blending Code with Creative Designs.
   </textPath>
 </text>
+<text x="50%" y="50%"
+      font-family="Helvetica"
+      font-size=".12em"
+      fill="white"
+      text-anchor="middle"
+      alignment-baseline="middle"
+      font-style="italic">
+  Software Developer, Graphic Designer, Blending Code with Creative Designs.
+</text>
 
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
