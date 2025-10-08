@@ -202,7 +202,7 @@ g.typingUnderline rect {
 
   <text font-family="Helvetica" font-size=".12em" fill="white"
       text-anchor="middle" alignment-baseline="middle" font-style="italic">
-  <textPath xlink:href="#descriptionTyping" method="align">
+  <textPath xlink:href="#descriptionTyping" startOffset="50%" method="align">
       Software Developer, Graphic Designer, Blending Code with Creative Designs.
   </textPath>
 </text>
