@@ -1,11 +1,10 @@
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/Linkedin Banner.png" width="100%" alt="Nishant Raj Banner">
+  <img src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/main/images/svg/header.svg" width="100%" alt="NISHANT RAJ Banner">
 </div>
 
 
 
-**A Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
+**I am a Pre-Final Year CSE Undergraduate || Web Developer || Graphic Designer || Blending Code with Creative Designs**
 <h3>ABOUT ME</h3>
 
 I'm a passionate developer who loves blending creativity with clean, functional code. I focus on building intuitive and efficient solutions that balance design, performance, and user experience. Currently exploring Java and real-world project development, I enjoy learning, collaborating, and contributing to ideas that make technology more meaningful. Open-source and teamwork inspire me to grow while helping others along the way.
