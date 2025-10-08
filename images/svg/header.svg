@@ -199,18 +199,12 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-
-
-<text x="50%" y="50%"
-      font-family="Helvetica"
-      font-size=".12em"
-      fill="white"
-      text-anchor="middle"
-      alignment-baseline="middle"
-      font-style="italic">
-  Software Developer, Graphic Designer, Blending Code with Creative Designs.
+<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+  <textPath xlink:href="#descriptionTyping" >
+      Graphic Designer, Web Developer, Blending Code with Creative Designs.
+  </textPath>
 </text>
-
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
