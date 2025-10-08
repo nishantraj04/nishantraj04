@@ -67,3 +67,7 @@ has a message for you...
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nishantraj04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=nishantraj04&style=plastic&label=Views"><img>
+</p>
