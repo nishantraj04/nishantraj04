@@ -186,7 +186,7 @@ g.typingUnderline rect {
 
   <clipPath id="descReveal">
     <rect x="0" y="-10" width="0" height="20">
-      <animate attributeName="width" from="0" to="115" dur="6s" begin="2.9s" steps="50" fill="freeze" />
+      <animate attributeName="width" from="0" to="115" dur="6s" begin="1s" steps="50" fill="freeze" />
     </rect>
   </clipPath>
 </defs>
