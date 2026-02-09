@@ -42,9 +42,9 @@ I am currently focusing my development time on two core projects:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nishantraj04&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=refresh)<br>
+![](https://github-readme-stats.vercel.app/api?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=refresh)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishantraj04&theme=dark&hide_border=false&v=refresh)
 
 ## 🤝 Let's Connect
 
