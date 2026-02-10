@@ -2,7 +2,8 @@
   <img src="header.svg" width="100%" alt="NISHANT RAJ Banner">
 </div>
 
-**A CSE Undergraduate | Blending Code with Creative Designs**
+**A CSE Undergraduate | Blending Code with Creative Designs**   
+<i>Still Building, Still Learning.</i>
 
 <h3>ABOUT ME</h3>
 
