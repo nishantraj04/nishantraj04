@@ -2,65 +2,191 @@
   <img src="header.svg" width="100%" alt="NISHANT RAJ Banner">
 </div>
 
-**A CSE Undergraduate | Blending Code with Creative Designs**   
-<i>Still Building, Still Learning.</i>
+<div align="center">
 
-<h3>ABOUT ME</h3>
+# NISHANT RAJ
 
-I'm a developer who enjoys turning ideas into functional web applications. My current focus is on building tools that solve specific student needs, like networking and productivity. I bridge the gap between clean aesthetics and logic, ensuring that the apps I build are as intuitive as they are stable. I’m currently deep-diving into React.js and Full Stack workflows through my personal projects.
+### A CSE Undergraduate | Building Functional Products with Clean Design
 
-<h3>EXPERIENCE</h3>
+<i>Still Building. Still Learning.</i>
 
-I am currently focusing my development time on two core projects:
 
-* **TeamUp:** A web platform designed to help students find and connect with teammates for hackathons, focusing on matching skills with project needs.
-* **JobTracker:** A dedicated application to help students manage their internship and job application pipeline, focusing on data organization and status tracking.
+</div>
 
-**My current technical focus:**
+---
 
-- <img src="https://img.shields.io/badge/Web_Development-white?labelColor=black" alt="Web Dev"> <img src="https://img.shields.io/badge/-React.js -- Node.js -- Express : Building_responsive_Full_Stack_applications-grey" alt="Web focus">
-- <img src="https://img.shields.io/badge/Data_&_Persistence-white?labelColor=black" alt="Data"> <img src="https://img.shields.io/badge/-SQL -- PostgreSQL -- MongoDB : Structuring_and_managing_complex_data-grey" alt="Data focus">
-- <img src="https://img.shields.io/badge/Architecture-white?labelColor=black" alt="Architecture"> <img src="https://img.shields.io/badge/-JWT_Auth -- REST_APIs -- Vercel -- Render : Deployment_and_Security-grey" alt="Arch focus">
-- <img src="https://img.shields.io/badge/Core_CS_&_Design-white?labelColor=black" alt="CS and Design"> <img src="https://img.shields.io/badge/-Java -- C -- Figma -- Canva : Logic_implementation_and_visual_design-grey" alt="Logic focus">
+<div align="center">
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img width="100%" src="https://raw.githubusercontent.com/nishantraj04/nishantraj04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishantraj04&theme=radical)
+</div>
 
-# 💻 Tech Stack:
+---
 
-### Languages & Core Logic
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 🧠 ABOUT ME
 
-### Frontend & Design
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+I'm a developer focused on building practical web applications that solve real student-centric problems.  
+My work sits at the intersection of clean UI, scalable backend logic, and intuitive user experience.
 
-### Backend, Database & Auth
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+Currently focused on:
 
-### Deployment & Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- Full Stack Development
+- React Ecosystem & Backend Architecture
+- Authentication & APIs
+- Real-world Product Development
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=refresh)<br>
-![](https://github-readme-stats.vercel.app/api?username=nishantraj04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=refresh)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nishantraj04&theme=dark&hide_border=false&v=refresh)
+---
 
-## 🤝 Let's Connect
+# 🚀 CURRENT PROJECTS
 
-**📬 Interested in my work? Let's get in touch.**
+## 🔹 TeamUp
+A platform that helps students discover teammates for hackathons and collaborative projects by matching skills, interests, and project requirements.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantraj04)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/nishant._.raj)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishant.raj0403@gmail.com)
+## 🔹 JobTracker
+A structured internship and placement tracking application focused on organization, application management, and workflow clarity.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nishantraj04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# ⚙️ CURRENT TECHNICAL FOCUS
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=nishantraj04&color=blueviolet" alt="Views" />
+- <img src="https://img.shields.io/badge/Web_Development-white?labelColor=black" alt="Web Dev"> <img src="https://img.shields.io/badge/-React.js_--_Node.js_--_Express_:_Building_scalable_full_stack_applications-grey" alt="Web focus">
+
+- <img src="https://img.shields.io/badge/Data_&_Persistence-white?labelColor=black" alt="Data"> <img src="https://img.shields.io/badge/-PostgreSQL_--_MongoDB_--_MySQL_:_Structuring_and_managing_application_data-grey" alt="Data focus">
+
+- <img src="https://img.shields.io/badge/Architecture-white?labelColor=black" alt="Architecture"> <img src="https://img.shields.io/badge/-JWT_Auth_--_REST_APIs_--_Deployment_:_Security_and_system_design-grey" alt="Arch focus">
+
+- <img src="https://img.shields.io/badge/Core_CS_&_Design-white?labelColor=black" alt="CS and Design"> <img src="https://img.shields.io/badge/-Java_--_C_--_C++_--_Figma_--_Canva_:_Logic_and_visual_problem_solving-grey" alt="Logic focus">
+
+---
+
+# 💻 TECH STACK
+
+## 🧩 Languages & Core Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
+
+---
+
+## 🎨 Frontend & UI Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma,canva" />
+</p>
+
+---
+
+## ⚙️ Backend, APIs & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,restapi" />
+</p>
+
+---
+
+## 🚀 Deployment, Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=render,resend,canva" />
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantraj04&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraj04&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="92%" src="https://streak-stats.demolab.com?user=nishantraj04&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishantraj04&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# ⚡ DEVELOPMENT INSIGHTS
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantraj04&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishantraj04&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishantraj04&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishantraj04&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantraj04&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nishantraj04&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT!!
+
+<div align="center">
+
+### 📬 Interested in my work or projects? Let's connect.
+
+<br>
+
+<a href="https://linkedin.com/in/nishantraj04">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nishant._.raj">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:nishant.raj0403@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
