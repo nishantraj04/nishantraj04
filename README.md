@@ -40,10 +40,11 @@ Currently focused on:
 # 🚀 CURRENT PROJECTS
 
 ## 🔹 Sorted
-Sorted is a full-stack web dashboard built with React and Supabase that tracks job and internship applications by managing chronological interview roadmaps, custom resume assets, offered packages, and referral details in real time.  
+Sorted is a full-stack web dashboard built with React and Supabase that tracks job and internship applications by managing chronological interview roadmaps, custom resume assets, offered packages, and referral details in real time.
 
 ## 🔹 RAG-compliance Chatbot
 A full-stack RAG web application featuring a React frontend and Flask backend that performs semantic search over enterprise compliance PDFs using ChromaDB and generates cited, LLM-powered responses via the Groq API.
+
 ---
 
 # ⚙️ CURRENT TECHNICAL FOCUS
