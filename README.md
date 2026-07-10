@@ -39,12 +39,11 @@ Currently focused on:
 
 # 🚀 CURRENT PROJECTS
 
-## 🔹 TeamUp
-A platform that helps students discover teammates for hackathons and collaborative projects by matching skills, interests, and project requirements.
+## 🔹 Sorted
+Sorted is a full-stack web dashboard built with React and Supabase that tracks job and internship applications by managing chronological interview roadmaps, custom resume assets, offered packages, and referral details in real time.  
 
-## 🔹 JobTracker
-A structured internship and placement tracking application focused on organization, application management, and workflow clarity.
-
+## 🔹 RAG-compliance Chatbot
+A full-stack RAG web application featuring a React frontend and Flask backend that performs semantic search over enterprise compliance PDFs using ChromaDB and generates cited, LLM-powered responses via the Groq API.
 ---
 
 # ⚙️ CURRENT TECHNICAL FOCUS
